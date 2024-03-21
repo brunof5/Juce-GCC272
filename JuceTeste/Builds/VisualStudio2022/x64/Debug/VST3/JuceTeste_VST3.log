@@ -1,0 +1,15 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+C:\Users\Crespo\Documents\JUCE\modules\juce_core\threads\juce_CriticalSection.h(109,11): warning C4996: 'std::aligned_storage_t': warning STL4034: std::aligned_storage and std::aligned_storage_t are deprecated in C++23. Prefer alignas(T) std::byte t_buff[sizeof(T)]. You can define _SILENCE_CXX23_ALIGNED_STORAGE_DEPRECATION_WARNING or _SILENCE_ALL_CXX23_DEPRECATION_WARNINGS to suppress this warning.
+  (compilando o arquivo fonte '../../JuceLibraryCode/include_juce_audio_plugin_client_VST3.cpp')
+  
+C:\Users\Crespo\Documents\JUCE\modules\juce_core\containers\juce_FixedSizeFunction.h(102,26): warning C4996: 'std::aligned_storage_t': warning STL4034: std::aligned_storage and std::aligned_storage_t are deprecated in C++23. Prefer alignas(T) std::byte t_buff[sizeof(T)]. You can define _SILENCE_CXX23_ALIGNED_STORAGE_DEPRECATION_WARNING or _SILENCE_ALL_CXX23_DEPRECATION_WARNINGS to suppress this warning.
+  (compilando o arquivo fonte '../../JuceLibraryCode/include_juce_audio_plugin_client_VST3.cpp')
+  C:\Users\Crespo\Documents\JUCE\modules\juce_core\containers\juce_FixedSizeFunction.h(102,26):
+  o contexto de instanciação do modelo (o mais antigo primeiro) é
+  	C:\Users\Crespo\Documents\JUCE\modules\juce_core\containers\juce_FixedSizeFunction.h(99,7):
+  	ao compilar a especialização parcial do modelo de classe 'juce::FixedSizeFunction<len,Ret(Args...)>'
+  
+     Criando biblioteca C:\Users\Crespo\Documents\Juce-GCC272\JuceTeste\Builds\VisualStudio2022\x64\Debug\VST3\JuceTeste.lib e objeto C:\Users\Crespo\Documents\Juce-GCC272\JuceTeste\Builds\VisualStudio2022\x64\Debug\VST3\JuceTeste.exp
+  JuceTeste_VST3.vcxproj -> C:\Users\Crespo\Documents\Juce-GCC272\JuceTeste\Builds\VisualStudio2022\x64\Debug\VST3\JuceTeste.dll
+          1 arquivo(s) copiado(s).
+  Arquivo excluído - C:\Users\Crespo\Documents\Juce-GCC272\JuceTeste\Builds\VisualStudio2022\x64\Debug\VST3\JuceTeste.vst3\Contents\Resources\moduleinfo.json

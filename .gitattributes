@@ -1,0 +1,9 @@
+.git/lfs/objects/39/fa/39fa0898fcb871c521229acf2c583b685af7aed5cf79db7f3c75004ad70de83a filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/a8/db/a8dbeb08e198b9baac911f57c5cd9a131638cdea5655ed6f6fe96794a0a01482 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/cf/37/cf371b91cdd7a0c8328ebd905665479f5a9fadaf3fe9b13a72bbe8db879b1d5c filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/f7/bd/f7bdbabf9c19acc270b5a5cfcd7d87b5aea8795caa22afb520cf8ed4382bbb10 filter=lfs diff=lfs merge=lfs -text
+.git/objects/e8/e115b6efdbeca02185ec1903d681d139ac81c3 filter=lfs diff=lfs merge=lfs -text
+JuceTeste/Builds/VisualStudio2022/.vs/JuceTeste/v17/Browse.VC.db filter=lfs diff=lfs merge=lfs -text
+JuceTeste/Builds/VisualStudio2022/x64/Debug/Shared[[:space:]]Code/JuceTeste.lib filter=lfs diff=lfs merge=lfs -text
+JuceTeste/Builds/VisualStudio2022/x64/Debug/VST3/JuceTeste.ilk filter=lfs diff=lfs merge=lfs -text
+JuceTeste/Builds/VisualStudio2022/x64/Debug/VST3/JuceTeste.pdb filter=lfs diff=lfs merge=lfs -text

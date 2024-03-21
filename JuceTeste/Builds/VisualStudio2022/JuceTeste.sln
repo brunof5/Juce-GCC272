@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio Version 17
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JuceTeste - VST3", "JuceTeste_VST3.vcxproj", "{2F8B6565-F4F4-BB70-B8A8-97DA963B9D9B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DB2151EB-9156-48AE-D6C8-4356F2FBA320} = {DB2151EB-9156-48AE-D6C8-4356F2FBA320}
+		{18B131F0-0406-7C6E-C1BE-001D296002FD} = {18B131F0-0406-7C6E-C1BE-001D296002FD}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JuceTeste - Shared Code", "JuceTeste_SharedCode.vcxproj", "{DB2151EB-9156-48AE-D6C8-4356F2FBA320}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JuceTeste - VST3 Manifest Helper", "JuceTeste_VST3ManifestHelper.vcxproj", "{18B131F0-0406-7C6E-C1BE-001D296002FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8B6565-F4F4-BB70-B8A8-97DA963B9D9B}.Debug|x64.ActiveCfg = Debug|x64
+		{2F8B6565-F4F4-BB70-B8A8-97DA963B9D9B}.Debug|x64.Build.0 = Debug|x64
+		{2F8B6565-F4F4-BB70-B8A8-97DA963B9D9B}.Release|x64.ActiveCfg = Release|x64
+		{2F8B6565-F4F4-BB70-B8A8-97DA963B9D9B}.Release|x64.Build.0 = Release|x64
+		{DB2151EB-9156-48AE-D6C8-4356F2FBA320}.Debug|x64.ActiveCfg = Debug|x64
+		{DB2151EB-9156-48AE-D6C8-4356F2FBA320}.Debug|x64.Build.0 = Debug|x64
+		{DB2151EB-9156-48AE-D6C8-4356F2FBA320}.Release|x64.ActiveCfg = Release|x64
+		{DB2151EB-9156-48AE-D6C8-4356F2FBA320}.Release|x64.Build.0 = Release|x64
+		{18B131F0-0406-7C6E-C1BE-001D296002FD}.Debug|x64.ActiveCfg = Debug|x64
+		{18B131F0-0406-7C6E-C1BE-001D296002FD}.Debug|x64.Build.0 = Debug|x64
+		{18B131F0-0406-7C6E-C1BE-001D296002FD}.Release|x64.ActiveCfg = Release|x64
+		{18B131F0-0406-7C6E-C1BE-001D296002FD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

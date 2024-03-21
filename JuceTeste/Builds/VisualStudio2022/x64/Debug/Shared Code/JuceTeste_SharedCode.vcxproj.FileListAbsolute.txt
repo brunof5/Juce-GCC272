@@ -1,0 +1,1 @@
+C:\Users\Crespo\Documents\Juce-GCC272\JuceTeste\Builds\VisualStudio2022\x64\Debug\Shared Code\JuceTeste.lib
